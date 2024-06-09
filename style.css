@@ -1,0 +1,11 @@
+
+nav a:hover{
+    color: red;
+}
+body {
+	background-color:grey;
+}
+.leftfoto{
+float:left;
+margin: 4px 10px 2px 0px;
+}
